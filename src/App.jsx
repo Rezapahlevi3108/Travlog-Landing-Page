@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from "react";
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Services from "./components/Services"
@@ -9,16 +8,6 @@ import Subscribe from "./components/Subscribe"
 import Footer from "./components/Footer"
 
 function App() {
-  const [theme, setTheme] = useState("light");
-
-  useEffect(() => {
-    document.documentElement.setAttribute("data-theme", theme);
-
-    return () => {
-      document.documentElement.removeAttribute("data-theme");
-    };
-  }, [theme]);
-
   return (
     <>
       <Navbar />

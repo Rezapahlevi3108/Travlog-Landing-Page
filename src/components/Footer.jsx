@@ -4,17 +4,17 @@ function Footer() {
     <div className="container mx-auto mt-32 mb-20">
         <div className="grid grid-cols-12">
             <div className="col-span-12 md:col-span-6 pe-0 md:pe-20">
-                <img src="/src/assets/img/logo.svg" className="mx-auto md:mx-0" alt="" />
+                <img src="/img/logo.svg" className="mx-auto md:mx-0" alt="" />
                 <p className="text-lg font-circular text-[#222831] opacity-50 text-center md:text-start mt-8">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
                 <div className="flex justify-center md:justify-start gap-8 mt-8 md:mt-12">
                     <a href="">
-                        <img src="/src/assets/img/facebook.svg" alt="" />
+                        <img src="/img/facebook.svg" alt="" />
                     </a>
                     <a href="">
-                        <img src="/src/assets/img/twitter.svg" alt="" />
+                        <img src="/img/twitter.svg" alt="" />
                     </a>
                     <a href="">
-                        <img src="/src/assets/img/instagram.svg" alt="" />
+                        <img src="/img/instagram.svg" alt="" />
                     </a>
                 </div>
             </div>

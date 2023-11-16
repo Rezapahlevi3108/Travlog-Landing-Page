@@ -11,7 +11,7 @@ function Features() {
                 <p className="text-center lg:text-start text-[#222831] opacity-50 text-base md:text-[18px] font-inter mt-8">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
                 <div className="flex flex-col sm:flex-row justify-start items-center gap-8 mt-16">
                     <div className="bg-[#FF5722] rounded-[32px] p-[26px]">
-                        <img src="/src/assets/img/location.svg" alt="" />
+                        <img src="/img/location.svg" alt="" />
                     </div>
                     <div className="text-center sm:text-start">
                         <h1 className="text-2xl font-bold [#222831]">We offer best services</h1>
@@ -20,7 +20,7 @@ function Features() {
                 </div>
                 <div className="flex flex-col sm:flex-row justify-start items-center gap-8 mt-[72px] sm:mt-8">
                     <div className="bg-[#FACD49] rounded-[32px] p-[26px]">
-                        <img src="/src/assets/img/calendar.svg" alt="" />
+                        <img src="/img/calendar.svg" alt="" />
                     </div>
                     <div className="text-center sm:text-start">
                         <h1 className="text-2xl font-bold [#222831]">We offer best services</h1>
@@ -29,7 +29,7 @@ function Features() {
                 </div>
                 <div className="flex flex-col sm:flex-row justify-start items-center gap-8 mt-[72px] sm:mt-8">
                     <div className="bg-[#F85E9F] rounded-[32px] p-[26px]">
-                        <img src="/src/assets/img/ticket.svg" alt="" />
+                        <img src="/img/ticket.svg" alt="" />
                     </div>
                     <div className="text-center sm:text-start">
                         <h1 className="text-2xl font-bold [#222831]">We offer best services</h1>
@@ -38,7 +38,7 @@ function Features() {
                 </div>
             </div>
             <div className="col-span-12 lg:col-span-6 order-1 lg:order-2">
-                <img src="/src/assets/img/img-features.png" className="mx-auto" alt="" />
+                <img src="/img/img-features.png" className="mx-auto" alt="" />
             </div>
         </div>
     </div>

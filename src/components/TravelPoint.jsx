@@ -5,7 +5,7 @@ function TravelPoint() {
     <div className="mt-32 px-4 lg:px-0">
         <div className="grid grid-cols-12">
             <div className="lg:col-span-7 col-span-12">
-                <img src="/src/assets/img/img-travel.png" alt="" />
+                <img src="/img/img-travel.png" alt="" />
             </div>
             <div className="lg:col-span-4 col-span-12 mt-16 lg:mt-0">
                 <div className="flex flex-col gap-4">

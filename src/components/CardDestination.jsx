@@ -11,7 +11,7 @@ function CardDestination({destinationImg, title, price, city, rating}) {
               <p className="text-lg text-[#222831] mt-4">{city}</p>
               <div className="flex items-center mt-8">
                   <span className="text-2xl font-bold text-[#FF5722] font-circular">{rating}</span>
-                  <img src="/src/assets/img/star.svg" className="ms-2 mb-1" />
+                  <img src="/img/star.svg" className="ms-2 mb-1" />
               </div>
           </div>
       </div>

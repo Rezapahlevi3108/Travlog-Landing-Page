@@ -18,9 +18,9 @@ function Navbar() {
         <nav className="py-9 px-4">
             <div className="container mx-auto">
                 <div className="flex items-center justify-between">
-                    <img src="/src/assets/img/logo.svg" className="order-1 sm:order-2" />
+                    <img src="/img/logo.svg" className="order-1 sm:order-2" />
                     <img 
-                    src="/src/assets/img/toogle.svg" 
+                    src="/img/toogle.svg" 
                     onClick={handleToogleButton}
                     className="order-2 sm:order-1 lg:hidden" />
                     <div className="order-2 hidden lg:block">
